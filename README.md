@@ -17,7 +17,7 @@ O _endpoint_ do _back-end_, caso seja diferente do local utilizado pelo Docker, 
 
 ### Inicialização e Desenvolvimento
 
-O projeto utiliza o [Docker](https://docs.docker.com/engine/install/) e o plugin (Docker Compose)[https://docs.docker.com/compose/install/linux/]
+O projeto utiliza o [Docker](https://docs.docker.com/engine/install/) e o plugin [Docker Compose](https://docs.docker.com/compose/install/linux/)
 para rodar. O ambiente de desenvolvimento pode ser iniciado com:
 
 ```bash
